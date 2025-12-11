@@ -40,7 +40,7 @@
 
 ---
 
-## ✨ GIF que me representa
+## ✨ GIF 
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG42aG9iZ20wamFsdW1hdTU5cXhtajVxZ3JvbGJsdWQ0eTZ1bzJmMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="300">
