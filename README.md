@@ -31,7 +31,7 @@
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | 📷 **Galeria** | Interface moderna e responsiva | HTML • CSS |
-| 🌙 **Project 2** | Site com foco em design | HTML • CSS |
+| 🌙 **Bayonetta** | Site com foco em design | HTML • CSS |
 
 ---
 
@@ -40,8 +40,8 @@
 
 ---
 
-## ✨ GIF 
+## 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG42aG9iZ20wamFsdW1hdTU5cXhtajVxZ3JvbGJsdWQ0eTZ1bzJmMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="300">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2J4amlrdjB5anhjNGx5djdjcWFzbnozYmFpYnozZWlxYzdkd242ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LjpvQbAhlNpa8/giphy.gif" width="300">
 </p>
