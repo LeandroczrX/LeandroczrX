@@ -1,33 +1,27 @@
-# 🌟 Olá! Eu sou o **Leandro Cezar**
+# :) Hello! Eu sou o **Leandro Cezar**
 
 <img src="https://github.com/your-username/your-username/blob/main/banner.png" width="100%" alt="Banner"/>
 
 ## 🚀 Sobre mim
 - 🎓 Estudante do **Ensino Médio** e **Técnico em Informática** na **ETEC**
 - 💻 Focado em **Front-end** e **UI Design**
-- 🎨 Adoro criar projetos **bonitos, modernos e interessantes**
+- 🎨 Gosto muito criar projetos **bonitos, modernos e interessantes**
 - 🌱 Sempre aprendendo novas tecnologias e melhorando minhas interfaces
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### ⭐ Linguagens & Básico  
+### ⭐ Linguagens   
 ![Languages](https://skillicons.dev/icons?i=html,css,js,python)
 
-### 🎨 Design & Ferramentas  
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="40" alt="Canva" title="Canva" />
-<img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" width="40" alt="Pinterest" title="Pinterest" />
-<img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
-<img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VSCode" />
-
----
+### 
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroczrX&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeandroczrX&show_icons=true&theme=radical)
 </div>
 
 ---
@@ -36,9 +30,8 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| 🔥 **Project 1** | Interface moderna e responsiva | HTML • CSS • JS |
-| 🌙 **Project 2** | Site com foco em design | HTML • CSS • JS |
-| 🚀 **Project 3** | Projeto experimental estiloso | HTML • CSS • JS |
+| 📷 **Galeria** | Interface moderna e responsiva | HTML • CSS |
+| 🌙 **Project 2** | Site com foco em design | HTML • CSS |
 
 ---
 
