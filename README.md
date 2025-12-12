@@ -2,7 +2,7 @@
 ![snake
 gif](https://raw´´´´´´´.githubusercontent.com/LeandroczrX/snk/output/github-contribution-grid-snake.svg)
 
-<img src="https://github.com/your-username/your-username/blob/main/banner.png" width="100%" alt="Banner"/>
+<img src="https://interfaceingame.com/wp-content/uploads/ultra-street-fighter-iv/ultra-street-fighter-iv-banner.jpg" width="100%" alt="Banner"/>
 
 ## 🚀 Sobre mim
 - 🎓 Estudante do **Ensino Médio** e **Técnico em Informática** na **ETEC**
