@@ -24,7 +24,7 @@ gif](https://raw´´´´´´´.githubusercontent.com/LeandroczrX/snk/output/gith
 
 <div align="center">
 
-![LeandroczrX GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroczrX&show_icons=true&theme=radical)
+![LeandroczrX GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroczrX&show_icons=true&theme=blue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroczrX&layout=compact&theme=radical)
 
