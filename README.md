@@ -1,4 +1,4 @@
-<img src="https://interfaceingame.com/wp-content/uploads/ultra-street-fighter-iv/ultra-street-fighter-iv-banner.jpg" width="100%" alt="Banner"/>
+<img src="https://png.pngtree.com/png-vector/20210412/ourmid/pngtree-welcome-banners-png-image_3211652.jpg" width="100%" alt="Banner"/>
 
 # :) Hello! Eu sou o **Leandro Cezar**
 ![snake
