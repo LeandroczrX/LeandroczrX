@@ -30,8 +30,8 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| 📷 **Galeria** | Interface moderna e responsiva | HTML • CSS |
-| 🌙 **Bayonetta** | Site com foco em design | HTML • CSS |
+| 📷 **Galeria** | Interface responsiva | HTML • CSS |
+| 🌙 **Bayonetta** | Site com foco em design e responsividade | HTML • CSS |
 
 ---
 
