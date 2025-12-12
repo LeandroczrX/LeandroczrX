@@ -53,5 +53,5 @@ gif](https://raw´´´´´´´.githubusercontent.com/LeandroczrX/snk/output/gith
 ## 
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2J4amlrdjB5anhjNGx5djdjcWFzbnozYmFpYnozZWlxYzdkd242ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LjpvQbAhlNpa8/giphy.gif" width="300">
+  <img src="https://media.tenor.com/kceo7Ejr840AAAAm/sakura-street-fighter.webp" width="300">
 </p>
