@@ -26,9 +26,9 @@ gif](https://raw´´´´´´´.githubusercontent.com/LeandroczrX/snk/output/gith
 
 ![LeandroczrX GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroczrX&show_icons=true&theme=blue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroczrX&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroczrX&layout=compact&theme=blue)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=LeandroczrX&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=LeandroczrX&theme=blue)
 
 </div>
 
