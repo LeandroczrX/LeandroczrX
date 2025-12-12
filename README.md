@@ -1,4 +1,6 @@
 # :) Hello! Eu sou o **Leandro Cezar**
+![snake
+gif](https://raw´´´´´´´.githubusercontent.com/LeandroczrX/snk/output/github-contribution-grid-snake.svg)
 
 <img src="https://github.com/your-username/your-username/blob/main/banner.png" width="100%" alt="Banner"/>
 
