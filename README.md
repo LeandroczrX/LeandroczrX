@@ -20,8 +20,7 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroczrX&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeandroczrX&show_icons=true&theme=radical)
+![Top Langs]![LeandroczrX GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroczrX&show_icons=true&theme=radical)
 </div>
 
 ---
