@@ -38,7 +38,7 @@
 ## 🌐 Portfólio
 ⭢ **Galeria** (https://leandroczrx.github.io/Galeriaa/) 
 
-⭢ **bayonetta** (https://leandroczrx.github.io/bayonetta/) 
+⭢ **Bayonetta** (https://leandroczrx.github.io/bayonetta/) 
 
 ---
 
