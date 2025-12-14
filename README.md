@@ -20,7 +20,7 @@ gif](https://raw´´´´´´´.githubusercontent.com/LeandroczrX/snk/output/gith
 
 ### 
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas 
 
 <div align="center">
 
