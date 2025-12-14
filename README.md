@@ -7,7 +7,7 @@ gif](https://raw´´´´´´´.githubusercontent.com/LeandroczrX/snk/output/gith
 
 ## 🚀 Sobre mim
 - 🎓 Estudante do **Ensino Médio** e **Técnico em Informática** na **ETEC**
-- 💻 Focado em **Front-end** e **UI Design**
+- 💻 Focado em **Front-end** e **UX/UI Design**
 - 🎨 Gosto muito criar projetos **bonitos, modernos e interessantes**
 - 🌱 Sempre aprendendo novas tecnologias e melhorando minhas interfaces
 
