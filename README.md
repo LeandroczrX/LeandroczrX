@@ -1,13 +1,5 @@
 # :) Olá! Eu sou o **Leandro Cezar**  
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeandroczrX/<repo>/dist/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeandroczrX/<repo>/dist/github-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/LeandroczrX/<repo>/dist/github-snake.svg">
-  </picture>
-</p>
-
 ## 🚀 Sobre mim
 - 🎓 Estudante do **Ensino Médio** e **Técnico em Informática** na **ETEC**  
 - 💻 Focado em **Front-end** e **UX/UI Design**  
