@@ -11,7 +11,7 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 ### ⭐ Linguagens
-![Languages](https://skillicons.dev/icons?i=html,css,js,python,c++)
+![Languages](https://skillicons.dev/icons?i=html,css,js,python)
 
 ---
 
