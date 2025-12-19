@@ -3,8 +3,7 @@
 ## 🚀 Sobre mim
 - 🎓 Estudante do **Ensino Médio** e **Técnico em Informática** na **ETEC**  
 - 💻 Focado em **Front-end** e **UX/UI Design**  
-- 🎨 Gosto muito de criar projetos **bonitos e interessantes**  
-- 🌱 Sempre estou aprendendo novas coisas e melhorando minhas interfaces  
+- 🎨 Gosto muito de criar projetos **bonitos e interessantes**   
 
 ---
 
@@ -29,8 +28,8 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| 🍄 **Mario Bros** | Interface responsiva | HTML • CSS + Javascript |
-| 🌙 **Bayonetta** | Site com foco em design e responsividade | HTML • CSS |
+| 🍄 **Mario Bros** | Site criativo foco em design | HTML • CSS + Javascript |
+| 🌙 **Bayonetta** | responsividade | HTML • CSS |
 
 ---
 
