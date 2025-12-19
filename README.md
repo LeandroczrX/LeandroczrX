@@ -29,13 +29,13 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| 📷 **Galeria** | Interface responsiva | HTML • CSS |
+| 🍄 **Mario Bros** | Interface responsiva | HTML • CSS + Javascript |
 | 🌙 **Bayonetta** | Site com foco em design e responsividade | HTML • CSS |
 
 ---
 
 ## 🌐 Portfólio
-- ⭢ [Galeria](https://leandroczrx.github.io/Galeriaa/)  
+- ⭢ [Super Mario Bros]()  
 - ⭢ [Bayonetta](https://leandroczrx.github.io/bayonetta/)  
 
 ---
