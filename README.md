@@ -3,15 +3,15 @@
 ## 🚀 Sobre mim
 - 🎓 Estudante do **Ensino Médio** e **Técnico em Informática** na **ETEC**  
 - 💻 Focado em **Front-end** e **UX/UI Design**  
-- 🎨 Gosto muito de criar projetos **bonitos, modernos e interessantes**  
-- 🌱 Sempre aprendendo novas tecnologias e melhorando minhas interfaces  
+- 🎨 Gosto muito de criar projetos **bonitos e interessantes**  
+- 🌱 Sempre estou aprendendo novas coisas e melhorando minhas interfaces  
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
 ### ⭐ Linguagens
-![Languages](https://skillicons.dev/icons?i=html,css,js,python)
+![Languages](https://skillicons.dev/icons?i=html,css,js,python,c++)
 
 ---
 
