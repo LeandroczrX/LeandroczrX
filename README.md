@@ -40,5 +40,5 @@
 ---
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRld3owdTg1bHJ2aGlqcngwanRiajZ2Ymc1c3dubzJucmVmaWlqbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zeDVACztUc43ltMmmP/200.webp" width="500">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVoNmFkdTFxdDc1YXdweXdwYzI0MnkxbW95c3FxaTZoeHByY3J0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/37IzUsLdfChayL5uyA/200.webp" width="500">
 </p>
