@@ -40,5 +40,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/kceo7Ejr840AAAAm/sakura-street-fighter.webp" width="300">
+  <img src="https://tenor.com/pt-BR/view/mario-super-mario-world-luigi-gif-3022750532093786449" width="300">
 </p>
