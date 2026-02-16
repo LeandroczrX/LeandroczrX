@@ -40,5 +40,5 @@
 ---
 
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/mario-super-mario-world-luigi-gif-3022750532093786449" width="300">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRld3owdTg1bHJ2aGlqcngwanRiajZ2Ymc1c3dubzJucmVmaWlqbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zeDVACztUc43ltMmmP/200.webp" width="300">
 </p>
