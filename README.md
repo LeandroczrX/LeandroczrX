@@ -1,4 +1,4 @@
-# :) Olá! my name is **Leandro Cézar**  
+# :) Hello! my name is **Leandro Cézar**  
 
 ## 🚀 Sobre mim
 - 🎓 Estudante do **Ensino Médio** e **Técnico em Informática** na **ETEC**  
