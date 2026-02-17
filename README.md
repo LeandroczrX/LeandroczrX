@@ -39,10 +39,14 @@
 
 ## ✨ Projetos em Destaque
 
+<div align="center">
+
 | 🚀 Projeto | 📄 Descrição | 🛠️ Tecnologias |
 |------------|-------------|----------------|
 | 🍄 **Mario Bros** | Site criativo com foco em design e interatividade | HTML • CSS • JavaScript |
 | 🌙 **Bayonetta** | Projeto com foco em responsividade | HTML • CSS |
+
+</div>
 
 ---
 
