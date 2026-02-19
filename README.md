@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,40:00BFFF,100:FF2E63&text=Leandro%20Cézar&fontSize=45&fontColor=ffffff&animation=twinkling&desc=Front-end%20Developer%20•%20UI/UX%20Designer&descAlignY=70&descAlign=50"/>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F1A,50:001F3F,100:0F0F1A&height=220&section=header"/>
 
