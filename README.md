@@ -1,10 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:0F0F1A,100:001F3F&text=Leandro%20Cézar&fontSize=45&fontColor=00BFFF&animation=fadeIn&desc=Front-end%20Developer%20•%20UI/UX%20Designer&descAlignY=70&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,40:00BFFF,100:FF2E63&text=Leandro%20Cézar&fontSize=45&fontColor=ffffff&animation=twinkling&desc=Front-end%20Developer%20•%20UI/UX%20Designer&descAlignY=70&descAlign=50"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F1A,50:001F3F,100:0F0F1A&height=220&section=header"/>
-
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=600&color=00BFFF&lines=Leandro+C%C3%A9zar;Front-end+Developer;UI%2FUX+Designer"/>
-</p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2"/>
 
 <p align="center">
