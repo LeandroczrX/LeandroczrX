@@ -12,7 +12,7 @@
 ##  Sobre mim
 
 - 🎓 Estudante do Ensino Médio integrado ao Técnico em Informática  
-- 💻 Foco em desenvolvimento Front-end  
+- 📌 Foco em desenvolvimento Front-end  
 - 🎨 Aprendendo e aprimorando  UI e UX, responsividade e experiência do usuário  
 ---
 
@@ -35,7 +35,7 @@
 
 ---
 
-## ✨ Projetos em Destaque
+##🎯 Projetos em Destaque
 
 <div align="center">
 
