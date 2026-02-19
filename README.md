@@ -11,7 +11,7 @@
 </p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2"/>
+
 
 ##  Tecnologias & Ferramentas
 
@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,ps,figma" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2"/>
+
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=LeandroczrX&show_icons=true&theme=tokyonight" />
@@ -43,7 +43,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2"/>
 
 ## 🌐 Portfólio
 
