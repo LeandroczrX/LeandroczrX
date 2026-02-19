@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,50:00BFFF,100:FF2E63&height=200&section=header&text=Leandro%20Cézar&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=600&color=00BFFF&lines=Leandro+C%C3%A9zar;Front-end+Developer;UI%2FUX+Designer"/>
+</h1>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2"/>
 
 <p align="center">
