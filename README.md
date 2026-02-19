@@ -1,5 +1,5 @@
 
-### 👋 Olá! Eu sou o Leandro Cézar
+### 👋 Oi! Eu sou o Leandro Cézar
 
 <p align="center">
   🎓 Ensino Médio + Técnico em Informática (ETEC) <br>
@@ -9,22 +9,20 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 - 🎓 Estudante do Ensino Médio integrado ao Técnico em Informática  
 - 💻 Foco em desenvolvimento Front-end  
 - 🎨 Aprendendo e aprimorando  UI e UX, responsividade e experiência do usuário  
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,ps,figma" />
 </p>
 
 ---
-
-## 📊 Estatísticas GitHub
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=LeandroczrX&show_icons=true&theme=tokyonight" />
@@ -41,7 +39,7 @@
 
 <div align="center">
 
-| 🚀 Projeto | 📄 Descrição | 🛠️ Tecnologias |
+|  Projeto |  Descrição |  Tecnologias |
 |------------|-------------|----------------|
 | 🍄 **Mario Bros** | Site criativo com foco em design e interatividade | HTML • CSS • JavaScript |
 | 🌙 **Bayonetta** | Projeto com foco em responsividade | HTML • CSS |
