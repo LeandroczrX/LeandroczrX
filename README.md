@@ -3,8 +3,6 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:FF2E63&height=3"/>
-
 ## Sobre mim
 <p align="center">
   🎓 Ensino Médio + Técnico em Informática (ETEC) <br>
