@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&size=28&center=true&vCenter=true&width=600&lines=Front-end+Developer;UX%2FUI+Designer;Criando+experiências+digitais" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:FF2E63&height=3"/>
 
 ## Sobre mim
 <p align="center">
