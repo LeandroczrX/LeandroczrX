@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Leandro%20Cézar&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<h1 align="center">
-  👋 Oi, eu sou o Leandro Cézar
-</h1>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2"/>
 
 <p align="center">
