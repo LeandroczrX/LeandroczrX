@@ -1,19 +1,19 @@
 
-### 👋 Oi! Eu sou o Leandro Cézar
+<h1 align="center">
+  👋 Oi, eu sou o Leandro Cézar
+</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&size=28&center=true&vCenter=true&width=600&lines=Front-end+Developer;UX%2FUI+Designer;Criando+experiências+digitais" />
+</p>
+
+## Sobre mim
 <p align="center">
   🎓 Ensino Médio + Técnico em Informática (ETEC) <br>
   💻 Foco em Front-end & UX/UI Design <br>
-  🎨 Criando experiências digitais criativas
+  🎨 Aprimorando UI e UX, responsividade e experiência do usuário 
 </p>
 
----
-
-##  Sobre mim
-
-- 🎓 Estudante do Ensino Médio integrado ao Técnico em Informática  
-- 📌 Foco em desenvolvimento Front-end  
-- 🎨 Aprendendo e aprimorando  UI e UX, responsividade e experiência do usuário  
 ---
 
 ##  Tecnologias & Ferramentas
