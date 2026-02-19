@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:0F0F1A,100:001F3F&text=Leandro%20Cézar&fontSize=45&fontColor=00BFFF&animation=fadeIn&desc=Front-end%20Developer%20•%20UI/UX%20Designer&descAlignY=70&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,50:0F0F1A,100:001F3F&text=Leandro%20Cézar&fontSize=60&fontColor=00BFFF&animation=fadeIn&desc=Front-end%20Developer%20•%20UI/UX%20Designer&descSize=22&descAlignY=72&descAlign=50"/>
 
 
 
