@@ -17,7 +17,7 @@
   🎨 Aprimorando UI e UX, responsividade e experiência do usuário 
 </p>
 
----
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2"/>
 
 ##  Tecnologias & Ferramentas
@@ -26,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,ps,figma" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2"/>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=LeandroczrX&show_icons=true&theme=tokyonight" />
@@ -37,7 +37,7 @@
   <img height="170" src="https://streak-stats.demolab.com?user=LeandroczrX&theme=tokyonight" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2"/>
 
 ##🎯 Projetos em Destaque
 
@@ -50,7 +50,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2"/>
 
 ## 🌐 Portfólio
 
@@ -59,7 +59,7 @@
   🌙 <a href="https://leandroczrx.github.io/bayonetta/" target="_blank"><b>Bayonetta</b></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2"/>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVoNmFkdTFxdDc1YXdweXdwYzI0MnkxbW95c3FxaTZoeHByY3J0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/37IzUsLdfChayL5uyA/200.webp" width="500">
