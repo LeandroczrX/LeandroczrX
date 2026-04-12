@@ -32,7 +32,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2"/>
 
-##🎯 Projetos em Destaque
+🎯 ## Projetos em Destaque
 
 <div align="center">
 
