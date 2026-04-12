@@ -16,7 +16,7 @@
 ##  Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,ps,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,ps,figma" />
 </p>
 
 
