@@ -34,11 +34,6 @@
 
 ## Projetos em Destaque
 
-
-
-
-## 🌐 Portfólio
-
 <p align="center">
   🍄 <a href="https://leandroczrx.github.io/MarioBros/" target="_blank"><b>Super Mario Bros</b></a> <br><br>
    <div align="center">
