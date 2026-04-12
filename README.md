@@ -5,9 +5,9 @@
 
 ## Sobre mim
 <p align="center">
-  🎓 Ensino Médio + Técnico em Informática (ETEC) <br>
-  💻 Foco em Front-end & UX/UI Design <br>
-  🎨 Aprimorando UI e UX, responsividade e experiência do usuário 
+   Ensino Médio + Técnico em Informática (ETEC) <br>
+   Foco em Front-end & UX/UI Design <br>
+   Aprimorando UI e UX, responsividade e experiência do usuário 
 </p>
 
 
