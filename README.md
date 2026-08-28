@@ -43,15 +43,7 @@
 | 🍄 **Mario Bros** | Site criativo com foco em design e interatividade | HTML • CSS • JavaScript |
 
 
-</div>
-  🌙 <a href="https://leandroczrx.github.io/bayonetta/" target="_blank"><b>Bayonetta</b></a>
-  <div align="center">
 
-|  Projeto |  Descrição |  Tecnologias |
-|------------|-------------|----------------|
-| 🌙 **Bayonetta** | Projeto com foco em responsividade | HTML • CSS |
-
-</div>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2"/>
