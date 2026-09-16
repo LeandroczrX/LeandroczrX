@@ -35,12 +35,8 @@
 ## Projetos em Destaque
 
 <p align="center">
-  🍄 <a href="https://leandroczrx.github.io/MarioBros/" target="_blank"><b>Super Mario Bros</b></a> <br><br>
+   <a href="" target="_blank"><b></b></a> <br><br>
    <div align="center">
-
-|  Projeto |  Descrição |  Tecnologias |
-|------------|-------------|----------------|
-| 🍄 **Mario Bros** | Site criativo com foco em design e interatividade | HTML • CSS • JavaScript |
 
 
 
