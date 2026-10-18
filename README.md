@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:030407,35:071923,70:123C46,100:030407&text=Leandro%20Cézar&fontSize=58&fontColor=67E8F9&fontAlignY=40&animation=fadeIn&desc=Future%20Front-end%20Developer%20%2F%2F%20UI%2FUX%20Designer&descSize=16&descColor=E5FAFF&descAlignY=60"/>
 
-<br>
-
 <h2 align="center">𓆝  about me</h2>
 
 <p align="center">
