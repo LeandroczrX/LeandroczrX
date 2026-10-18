@@ -3,7 +3,7 @@
 
   
 
-<h2 align="center"> ⌞ about me ⌝</h2>
+<h2 align="center"> ⌞ Sobre Mim ⌝</h2>
 
 <p align="center">
   Ensino Médio + Técnico em Informática (ETEC)<br>
@@ -12,7 +12,7 @@
 
 <br>
 
-<h2 align="center"> ⌞ tech stack ⌝</h2>
+<h2 align="center"> ⌞ Tecnologias e Ferramentas ⌝</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,cs,ps,figma&theme=dark" />
@@ -55,7 +55,7 @@
 <tr>
 <td align="center" valign="middle">
 
-<h2>⌞ contact ⌝</h2>
+<h2>⌞ contato⌝</h2>
 
 <a href="https://github.com/LeandroczrX">
 <img src="https://img.shields.io/badge/GITHUB-020409?style=for-the-badge&logo=github&logoColor=6096C8"/>
