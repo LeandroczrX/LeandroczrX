@@ -46,7 +46,7 @@
   </a>
 </p>
 
-<img src=""/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamhiZmRtZmZyb2I0a3E5b2tvcmxqb2Y1bGtzY2wxb2wxemNtdmtqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcNQAbMQM41PPo84dB/giphy.gif"/>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020409,50:0A1D35,100:020409"/>
