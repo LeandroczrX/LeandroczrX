@@ -35,18 +35,31 @@
 
 <br>
 
-<h2 align="center">𓂃 ࣪˖ contact</h2>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
 
-<p align="center">
-  <a href="https://github.com/LeandroczrX">
-    <img src="https://img.shields.io/badge/github-020409?style=for-the-badge&logo=github&logoColor=6096C8"/>
-  </a>
-  <a href="mailto:leandro.cezar360@gmail.com">
-    <img src="https://img.shields.io/badge/email-0A1D35?style=for-the-badge&logo=gmail&logoColor=B0C4DE"/>
-  </a>
-</p>
+      <h2>𓂃 ࣪˖ contact</h2>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamhiZmRtZmZyb2I0a3E5b2tvcmxqb2Y1bGtzY2wxb2wxemNtdmtqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcNQAbMQM41PPo84dB/giphy.gif"/>
+      <a href="https://github.com/LeandroczrX">
+        <img src="https://img.shields.io/badge/github-020409?style=for-the-badge&logo=github&logoColor=6096C8"/>
+      </a>
+
+      <a href="mailto:leandro.cezar360@gmail.com">
+        <img src="https://img.shields.io/badge/email-0A1D35?style=for-the-badge&logo=gmail&logoColor=B0C4DE"/>
+      </a>
+
+    </td>
+
+    <td width="50%" align="center" valign="middle">
+
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamhiZmRtZmZyb2I0a3E5b2tvcmxqb2Y1bGtzY2wxb2wxemNtdmtqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcNQAbMQM41PPo84dB/giphy.gif" width="300"/>
+
+    </td>
+    
+  </tr>
+</table>
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020409,50:0A1D35,100:020409"/>
