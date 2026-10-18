@@ -37,7 +37,7 @@
 
 
 <p align="center">
-  <samp>꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦</samp>
+  <samp>𓆝 𓆟 𓆞 𓆝 𓆟</samp>
 </p>
 
 <br>
