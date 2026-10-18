@@ -29,8 +29,10 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LeandroczrX&hide_border=true&background=020409&ring=315B85&fire=6096C8&currStreakLabel=6096C8&sideLabels=829AB5&currStreakNum=B0C4DE&sideNums=B0C4DE&dates=526780" />
+  <img src="https://streak-stats.demolab.com?user=LeandroczrX&hide_border=true&background=020409&ring=456B91&fire=789FC4&currStreakLabel=789FC4&sideLabels=607D9B&currStreakNum=C3D7EA&sideNums=9BB6D0&dates=43566D&stroke=0A1D35&currStreakLabel=789FC4" />
 </p>
+
+
 
 <p align="center">
   <samp>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</samp>
