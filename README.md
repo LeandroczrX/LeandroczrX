@@ -1,6 +1,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020409,35:050D1A,70:0A1D35,100:020409&text=Leandro%20Cézar&fontSize=58&fontColor=6096C8&fontAlignY=40&animation=fadeIn&desc=Future%20Front-end%20Developer%20%2F%2F%20UI%2FUX%20Designer&descSize=16&descColor=B0C4DE&descAlignY=60"/>
 
+
+ <p align="center">
+  <a href="https://open.spotify.com/intl-pt/track/19uWjVTCHEEzer1S6Js954?si=cebebf01781742a0">
+    <img src="https://img.shields.io/badge/🎧_ouvir_música-0A1D35?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="ouvir música">
+  </a>
+</p>
+
+
+
 <h2 align="center">𓆝  about me</h2>
 
 <p align="center">
