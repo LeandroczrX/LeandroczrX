@@ -1,4 +1,4 @@
-```html
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:05070A,50:0B1623,100:12304A&text=Leandro%20Cézar&fontSize=60&fontColor=00BFFF&animation=fadeIn&desc=Future%20Front-end%20Developer%20•%20UI/UX%20Designer&descSize=22&descAlignY=72&descAlign=50"/>
 
 ## ★ Sobre mim
