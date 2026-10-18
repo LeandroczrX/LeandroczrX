@@ -46,9 +46,7 @@
   </a>
 </p>
 
-<p align="center">
-  <samp>°❀⋆.ೃ࿔*:･  dive into the unknown ･:*࿔.ೃ⋆❀°</samp>
-</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:030407,50:123C46,100:030407"/>
 ```
