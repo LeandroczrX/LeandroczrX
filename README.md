@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020409,35:050D1A,70:0A1D35,100:020409&text=Leandro%20Cézar&fontSize=58&fontColor=6096C8&fontAlignY=40&animation=fadeIn&desc=Future%20Front-end%20Developer%20%2F%2F%20UI%2FUX%20Designer&descSize=16&descColor=B0C4DE&descAlignY=60"/>
 
 
-<h2 align="center"> about me</h2>
+<h2 align="center"> ⌞ about me ⌝</h2>
 
 <p align="center">
   Ensino Médio + Técnico em Informática (ETEC)<br>
