@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020409,35:050D1A,70:0A1D35,100:020409&animation=fadeIn" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:020409,35:050D1A,70:0A1D35,100:020409&animation=fadeIn&reversal=true" width="100%"/>
+
+  
 
 <h2 align="center"> ⌞ about me ⌝</h2>
 
