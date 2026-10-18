@@ -12,7 +12,7 @@
 
 <br>
 
-<h2 align="center"> ⌞ Tecnologias e Ferramentas ⌝</h2>
+<h2 align="center"> ⌞ Tecnologias ⌝</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,cs,ps,figma&theme=dark" />
