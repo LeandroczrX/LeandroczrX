@@ -32,13 +32,6 @@
   <samp>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</samp>
 </p>
 
-<h2 align="center">🦈  featured projects</h2>
-
-<p align="center">
-  <a href="https://github.com/LeandroczrX">
-    <img src="https://github-readme-stats-leandro.vercel.app/api/pin/?username=LeandroczrX&repo=SEU-REPOSITORIO&hide_border=true&bg_color=030407&title_color=67E8F9&text_color=B8DDE5&icon_color=67E8F9" />
-  </a>
-</p>
 
 <br>
 
