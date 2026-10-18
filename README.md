@@ -3,7 +3,7 @@
 
   
 
-<h2 align="center"> ⌞ Sobre Mim ⌝</h2>
+<h2 align="center"> ⌞ Sobre mim ⌝</h2>
 
 <p align="center">
   Ensino Médio + Técnico em Informática (ETEC)<br>
