@@ -36,26 +36,33 @@
 <br>
 
 
-<table>
+
+<br>
+
+<table width="100%">
   <tr>
-    <td align="center" valign="middle">
+    <td width="50%" align="center" valign="middle">
       <h2>𓂃 ࣪˖ contact</h2>
+      <br>
       <a href="https://github.com/LeandroczrX">
-        <img src="https://img.shields.io/badge/github-020409?style=for-the-badge&logo=github&logoColor=6096C8"/>
+        <img src="https://img.shields.io/badge/github-020409?style=for-the-badge&logo=github&logoColor=6096C8" height="40"/>
       </a>
       <br><br>
       <a href="mailto:leandro.cezar360@gmail.com">
-        <img src="https://img.shields.io/badge/email-0A1D35?style=for-the-badge&logo=gmail&logoColor=B0C4DE"/>
+        <img src="https://img.shields.io/badge/email-0A1D35?style=for-the-badge&logo=gmail&logoColor=B0C4DE" height="40"/>
       </a>
     </td>
-    <td align="center" valign="middle">
-      <img src="https://media2.giphy.com/media/IcNQAbMQM41PPo84dB/giphy.gif" width="250"/>
+
+    <td width="50%" align="center" valign="middle">
+      <img src="https://media2.giphy.com/media/IcNQAbMQM41PPo84dB/giphy.gif" width="350"/>
     </td>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020409,50:0A1D35,100:020409"/>
+<br>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020409,50:0A1D35,100:020409" width="100%"/>
+```
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020409,50:0A1D35,100:020409"/>
