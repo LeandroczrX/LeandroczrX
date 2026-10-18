@@ -1,7 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020409,35:050D1A,70:0A1D35,100:020409&text=Leandro%20Cézar&fontSize=58&fontColor=6096C8&fontAlignY=40&animation=fadeIn&descSize=16&descColor=B0C4DE&descAlignY=60"/>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=16&pause=1200&color=B0C4DE&center=true&vCenter=true&width=600&lines=Future+Front-end+Developer;UI%2FUX+Designer;Learning+to+build+cool+things;Turning+ideas+into+code" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020409,35:050D1A,70:0A1D35,100:020409&animation=fadeIn" />
 </p>
 
 <h2 align="center"> ⌞ about me ⌝</h2>
