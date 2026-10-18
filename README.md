@@ -20,17 +20,17 @@
 
 
 
-
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeandroczrX&show_icons=true&hide_border=true&bg_color=020409&title_color=6096C8&text_color=B0C4DE&icon_color=6096C8&include_all_commits=true&count_private=true" />
-  
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroczrX&layout=compact&hide_border=true&bg_color=020409&title_color=6096C8&text_color=B0C4DE" />
+  <img width="400" height="165" src="https://github-readme-stats.vercel.app/api?username=LeandroczrX&show_icons=true&hide_border=true&bg_color=020409&title_color=6096C8&text_color=B0C4DE&icon_color=6096C8&include_all_commits=true&count_private=true" />
+
+  <img width="400" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroczrX&layout=compact&hide_border=true&bg_color=020409&title_color=6096C8&text_color=B0C4DE" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LeandroczrX&hide_border=true&background=020409&ring=456B91&fire=789FC4&currStreakLabel=789FC4&sideLabels=607D9B&currStreakNum=C3D7EA&sideNums=9BB6D0&dates=43566D&stroke=0A1D35&currStreakLabel=789FC4" />
+  <img width="400" height="165" src="https://streak-stats.demolab.com?user=LeandroczrX&hide_border=true&background=020409&ring=456B91&fire=789FC4&currStreakLabel=789FC4&sideLabels=607D9B&currStreakNum=C3D7EA&sideNums=9BB6D0&dates=43566D&stroke=0A1D35" />
 </p>
+
+
 
 
 
