@@ -54,7 +54,7 @@
 <tr>
 <td align="center" valign="middle">
 
-<h2>⤿ contact</h2>
+<h2>⌞ contact ⌝</h2>
 
 <a href="https://github.com/LeandroczrX">
 <img src="https://img.shields.io/badge/GITHUB-020409?style=for-the-badge&logo=github&logoColor=6096C8"/>
