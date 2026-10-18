@@ -7,7 +7,7 @@
 
 <p align="center">
   Ensino Médio + Técnico em Informática (ETEC)<br>
-  Interessado em Front-end e UI/UX Design<br>
+  Interesse em Front-end e UI/UX Design<br>
 </p>
 
 <br>
