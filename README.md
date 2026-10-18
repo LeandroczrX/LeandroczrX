@@ -11,7 +11,7 @@
 
 <br>
 
-<h2 align="center">𓇼  tech stack</h2>
+<h2 align="center"> ⌞ tech stack ⌝</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,cs,ps,figma&theme=dark" />
