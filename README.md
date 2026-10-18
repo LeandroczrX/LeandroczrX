@@ -38,7 +38,7 @@
 
 
 <p align="center">
-  <samp>﹌﹌﹌﹌﹌ °‧ 𓆝 𓆟 𓆞 ·｡ ﹌﹌﹌﹌﹌</samp>
+  <samp>﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌</samp>
 </p>
 
 <br>
