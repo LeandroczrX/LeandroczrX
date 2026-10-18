@@ -23,11 +23,12 @@
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeandroczrX&show_icons=true&hide_border=true&bg_color=020409&title_color=6096C8&text_color=B0C4DE&icon_color=6096C8&include_all_commits=true&count_private=true" />
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroczrX&layout=compact&hide_border=true&bg_color=020409&title_color=6096C8&text_color=B0C4DE" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=LeandroczrX&hide_border=true&background=020409&ring=315B85&fire=6096C8&currStreakLabel=6096C8&sideLabels=829AB5&currStreakNum=B0C4DE&sideNums=B0C4DE&dates=526780" />
+</p>
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroczrX&layout=compact&hide_border=true&bg_color=020409&title_color=6096C8&text_color=B0C4DE" />
 </p>
 
 
