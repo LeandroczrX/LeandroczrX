@@ -70,7 +70,7 @@
 </td>
 <td align="center" valign="middle">
 
-<img src="https://media2.giphy.com/media/IcNQAbMQM41PPo84dB/giphy.gif" width="300"/>
+<img src="https://media1.tenor.com/m/KDX8Vs4jiaUAAAAd/my-hero-academia-mha.gif⁠" width="300"/>
 
 </td>
 </tr>
